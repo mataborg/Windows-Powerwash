@@ -1,4 +1,4 @@
-# New Windows 10 Install Powerwasher
+# New Windows 10 Install Auto-Setup
 [![made-with-powershell](https://img.shields.io/badge/PowerShell-1f425f?logo=Powershell)](https://microsoft.com/PowerShell)
 ![GitHub](https://img.shields.io/github/license/mataborg/windows-powerwash)
 
