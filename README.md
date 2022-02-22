@@ -1,6 +1,7 @@
 # New Windows 10 Install Auto-Setup
 [![made-with-powershell](https://img.shields.io/badge/PowerShell-1f425f?logo=Powershell)](https://microsoft.com/PowerShell)
 ![GitHub](https://img.shields.io/github/license/mataborg/windows-powerwash)
+[![PSScriptAnalyzer](https://github.com/mataborg/WindowsAutoSetup/actions/workflows/powershell.yml/badge.svg?branch=main)](https://github.com/mataborg/WindowsAutoSetup/actions/workflows/powershell.yml)
 
 This repo contains a powershell script designed to automatically connect, debloat (or "Powerwash!" and setup your most commonly used programs on Windows 10.
 
