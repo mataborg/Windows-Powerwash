@@ -15,6 +15,9 @@ The Wireless XML profiles provided are examples for formatting. To obtain your d
 
 * In an administrative Powershell, run:
 ```
+Install-Module -Name wifiprofilemanagement
+```
+```
 (Get-WiFiProfile -ProfileName WiFi2G).XML | Out-File $RepoDirectory\WiFi2G.xml -Encoding utf8
 (Get-WiFiProfile -ProfileName WiFi5G).XML | Out-File $RepoDirectory\WiFi5G.xml -Encoding utf8
 ```
