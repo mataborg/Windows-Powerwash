@@ -2,7 +2,7 @@
 [![made-with-powershell](https://img.shields.io/badge/PowerShell-1f425f?logo=Powershell)](https://microsoft.com/PowerShell)
 ![GitHub](https://img.shields.io/github/license/mataborg/windows-powerwash)
 
-This repo contains a powershell script designed to automatically connect, debloat and setup your most commonly used programs on Windows 10.
+This repo contains a powershell script designed to automatically connect, debloat (or "Powerwash!" and setup your most commonly used programs on Windows 10.
 
 ## WARNING
 * This Script requires "Bypass" execution policy in Powershell and automatically downloads and runs the Windows 10 debloater script. Please review the code before running it on your system!
